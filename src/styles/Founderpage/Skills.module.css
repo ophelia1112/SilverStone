@@ -1,0 +1,30 @@
+.skills{
+  margin-top:60%;
+}
+.skills_title{
+  display:flex;
+  justify-content: space-between;
+  color:rgba(60,60,60,0.9);
+}
+.skills_title span{
+  font-size:30px;
+  padding: 10px;
+}
+.skills_title a{
+  text-decoration:none;
+  font-size:18px;
+  color:rgba(60,60,60,0.8);
+  padding:15px;
+}
+.skills_title a:hover{
+  transform: scale(1.03);
+  color:rgba(60,60,60,1);
+}
+
+
+.skill img{
+  width:90%;
+  height:90%;
+  padding:4%;
+}
+

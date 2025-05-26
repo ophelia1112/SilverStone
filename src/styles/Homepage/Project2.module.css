@@ -1,0 +1,70 @@
+.new_project2{
+  margin-top:60%;
+  padding:5%;
+}
+
+.new_project2_title{
+  height:60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:14px;
+
+}
+.new_project2_title span{
+  font-size:30px;
+}
+.new_project2_title a{
+  color:black;
+  text-decoration: none;
+}
+.new_project2_title a:hover{
+  text-decoration: underline;
+  color:grey;
+  transition: color 0.3s ease;
+  transform: scale(1.03);
+}
+
+
+.project2{
+  display: flex;
+  overflow-x: auto;
+  padding:5%;
+  gap:30px;
+  scroll-behavior: smooth;
+
+}
+
+.project2_container img{
+  width: 90%;
+  height: 75%;
+  border-radius: 25px;
+
+}
+.project2_container{
+  height:500px;
+  flex: 0 0 450px; /* 不压缩，固定宽度 */
+  border-radius: 20px;
+  padding: 16px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+  white-space: normal;
+  transition: transform 0.2s ease;
+
+}
+.project2_container p{
+  padding:17px;
+}
+.project2_container:hover{
+  transform: scale(1.03);
+}
+.project2_container a{
+  font-size: 15px;
+  color:rgba(60,60,60,0.6);
+  text-decoration: none;
+
+}
+.project2_container a:hover{
+  color:rgba(60,60,60,0.8);
+  cursor: pointer;
+  text-decoration: underline;
+}

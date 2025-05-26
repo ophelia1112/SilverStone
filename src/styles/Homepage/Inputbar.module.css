@@ -1,0 +1,31 @@
+.input_bar_container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  margin-top: 5%;
+
+}
+
+.input_bar{
+  height:45px;
+  padding-left: 15px;
+  padding-right: 8px;
+  padding-top: 5px;
+  padding-bottom: 50px;
+  font-size: 16px;
+  border:1px solid gainsboro;
+  border-radius: 30px;
+  transition: border-color 0.3s ease;
+
+}
+.input_bar:focus{
+  outline: none;
+  border-color:grey;
+}
+
+.send{
+  position: absolute;
+  bottom:11%;
+  right:4%;
+}

@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1747308308893') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 22px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-youtube:before {
+  content: "\e8a7";
+}
+
+.icon-github:before {
+  content: "\e6a4";
+}
+
+.icon-telegram:before {
+  content: "\e731";
+}
+
+.icon-instagram:before {
+  content: "\e87f";
+}
+
+.icon-Youtube-fill:before {
+  content: "\e883";
+}
+
+.icon-linkin:before {
+  content: "\e60a";
+}
+
+.icon-discord:before {
+  content: "\ebf8";
+}
+
+.icon-tuite:before {
+  content: "\e604";
+}
+

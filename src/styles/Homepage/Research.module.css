@@ -1,0 +1,55 @@
+.research{
+  margin-top: 60%;
+
+}
+.research_title{
+  height:60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:14px;
+}
+
+.research_title span{
+  font-size:30px;
+}
+.research_title a{
+  color:black;
+  text-decoration: none;
+  font-size: 20px;
+}
+.research_title a:hover{
+  text-decoration: underline;
+  color:grey;
+  transition: color 0.3s ease;
+  transform: scale(1.03);
+}
+
+.research_video{
+  margin-top:7%;
+  width:90%;
+  display: flex;
+  justify-content: center;
+  position: relative;
+
+}
+
+.research_video video{
+  width:95%;
+  height:95%;
+  border-radius: 35px;
+}
+
+:global(.video_tip){
+  position: fixed;
+  background: rgba(0, 0, 0, 1);
+  color: white;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-size: 14px;
+  pointer-events: none;
+  display: none;
+  z-index: 9999;
+}
+
+

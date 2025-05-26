@@ -1,0 +1,13 @@
+.solgan{
+  display:flex;
+  justify-content: center;
+  height:120px;
+  padding:25px;
+  font-size: 50px;
+  font-family: 'segoe UI','Courier New', monospace;
+  white-space: nowrap;
+  border-right: 2px solid rgba(255, 255, 255, 0.75);
+  width: fit-content;
+
+}
+

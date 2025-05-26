@@ -1,0 +1,13 @@
+
+.main_page {
+  margin-left: 21%;
+  transition: margin-left 0.4s ease;
+  padding: 7%;
+}
+
+.mainwebExpande{
+  margin-left: 0;
+  padding: 10%;
+}
+
+

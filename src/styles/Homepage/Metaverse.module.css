@@ -1,0 +1,43 @@
+.metaverse_area{
+  margin-top: 60%;
+
+}
+.metaverse_title{
+  height:60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:14px;
+}
+
+.metaverse_title span{
+  font-size:30px;
+}
+.metaverse_title a{
+  color:black;
+  text-decoration: none;
+  font-size: 20px;
+}
+.metaverse_title a:hover{
+  text-decoration: underline;
+  color:grey;
+  transition: color 0.3s ease;
+  transform: scale(1.03);
+}
+
+.metaverse_video{
+  margin-top:7%;
+  width:90%;
+  display: flex;
+  justify-content: center;
+  position: relative;
+
+}
+
+.metaverse_video video{
+  width:95%;
+  height:95%;
+  border-radius: 35px;
+}
+
+

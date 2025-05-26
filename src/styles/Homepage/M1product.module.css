@@ -1,0 +1,52 @@
+.new_project1{
+  margin-top: 60%;
+  padding:20px;
+  display: flex;
+
+}
+
+
+.head_m1{
+  width:75%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  border-radius: 35px;
+  overflow: hidden;
+
+}
+.head_m1:hover{
+  transform: scale(1.01);
+}
+
+.head_m1 video{
+  width: 100%;
+  height: 100%;
+
+  border-radius: 35px;
+  object-fit: cover;
+  display: block;
+}
+
+.m1_link{
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  display:block;
+  z-index:10;
+}
+
+.m1_info{
+  padding:25px;
+  width:25%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 19px;
+  margin-left: 15px;
+  color:rgba(60,60,60,0.6)
+
+}

@@ -1,0 +1,30 @@
+.footlinks {
+  display: flex;
+  transition: all 0.4s ease;
+  margin-top: auto; /* 用 flex 撑到底部，而不是 margin-top: 55% */
+}
+
+.link_area{
+  width:25%;
+  padding:10px;
+}
+.links{
+  margin-top:18%;
+}
+.link_title a{
+  text-decoration: none;
+  color:rgba(60,60,60,0.4);
+  font-size: 18px;
+}
+.link_title a:hover{
+  color:rgba(60,60,60,0.6);
+}
+
+.every_link a{
+  text-decoration: none;
+  color:rgba(60,60,60,1);
+  font-size: 14px;
+}
+.every_link a:hover{
+  color:rgba(60,60,60,0.8);
+}

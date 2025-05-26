@@ -1,0 +1,15 @@
+.contactsClaim {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  margin-top: 10%;
+}
+.contactsClaim a{
+  text-decoration: none;
+  color:rgba(60, 60, 60, 0.8);
+  padding:8px;
+}
+.contactsClaim a:hover{
+  color:rgba(60, 60, 60, 1);
+}
+
