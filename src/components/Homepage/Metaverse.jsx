@@ -6,8 +6,8 @@ export default function Metaverse() {
         <span>Metaverse Trading World</span>
         <a href="#">explore more</a>
       </div>
-      <div className={styles.metaverse_video}>
-        <video src="/Homepage_img_video/metaverse.mp4" autoPlay muted loop />
+      <div className={styles.metaverse_img}>
+          <img src="/Homepage_img_video/metaverse.png" alt=""/>
       </div>
     </div>
     )

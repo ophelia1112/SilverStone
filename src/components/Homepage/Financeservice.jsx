@@ -12,7 +12,7 @@ export default function Financeservice() {
         </div>
 
         <div className={styles.services_container}>
-            <video src="/Homepage_img_video/finance_service.mp4" autoPlay muted loop></video>
+            <video src="/Homepage_img_video/financeService.mp4" autoPlay muted loop preload="auto"></video>
 
         </div>
 

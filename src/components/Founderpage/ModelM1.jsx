@@ -9,7 +9,7 @@ export default function ModelM1() {
             </div>
 
             <div className={styles.model_video}>
-                <video src="/Founderpage_imgs_videos/m1.mov" autoPlay muted loop></video>
+                <video src="/Founderpage_imgs_videos/m1.mp4" autoPlay muted loop></video>
                 <div className="video_tip">video paused</div>
             </div>
         </section>

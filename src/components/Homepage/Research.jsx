@@ -50,7 +50,7 @@ export default function Research() {
         <a href="#">read more</a>
       </div>
       <div className={styles.research_video} ref={containerRef}>
-        <video ref={videoRef} src="/Homepage_img_video/research_video.mp4" autoPlay muted loop />
+        <video ref={videoRef} src="/Homepage_img_video/research_video.mp4" autoPlay muted loop preload="auto"/>
         <div ref={tipRef} className="video_tip">video paused</div>
       </div>
     </div>

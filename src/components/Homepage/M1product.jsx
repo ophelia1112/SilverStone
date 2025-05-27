@@ -3,7 +3,7 @@ export default function M1product(){
     return (
         <div className={styles.new_project1}>
             <div className={styles.head_m1}>
-                <video src="/Homepage_img_video/m1.mov" autoPlay muted loop></video>
+                <video src="/Homepage_img_video/m1.mp4" autoPlay muted loop preload="auto"></video>
                 <a href="" className={styles.m1_link}></a>
             </div>
 

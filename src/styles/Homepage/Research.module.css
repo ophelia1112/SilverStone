@@ -19,7 +19,6 @@
   font-size: 20px;
 }
 .research_title a:hover{
-  text-decoration: underline;
   color:grey;
   transition: color 0.3s ease;
   transform: scale(1.03);
