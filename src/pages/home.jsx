@@ -15,13 +15,12 @@ export default function Home() {
             <Headslogan />
             <Flowhead />
             <Inputbar />
-            <M1product />
+            <M1product/>
             <Product2 />
-            <Financeservice />
+            <Financeservice/>
             <Metaverse/>
-            <Research />
-            <Futurecooperation />
-
+            <Research/>
+            <Futurecooperation/>
         </div>
 
 

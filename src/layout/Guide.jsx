@@ -73,10 +73,7 @@ export default function Guide({closeMenu, setCloseMenu}) {
                                 </div>
 
 
-                                <Link to="/founder" className={styles.menu} onClick={() => enterMenu('main')}>
-                                    <div className={styles.guideText}>Founder</div>
-                                    <span className={`iconfont icon-jiantou ${styles.arrow}`}></span>
-                                </Link>
+
 
                             </div>)}
 

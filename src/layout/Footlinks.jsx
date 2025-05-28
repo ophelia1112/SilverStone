@@ -92,9 +92,7 @@ export default function footlinks({closeMenu}) {
 
                 </div>
 
-                <div className={styles.links}>
-                    <p className={styles.link_title}><a href="">Founder</a></p>
-                </div>
+
             </div>
 
         </div>
