@@ -36,10 +36,7 @@ export default function Guide({closeMenu, setCloseMenu}) {
                                     <span className={`iconfont icon-jiantou ${styles.arrow}`}></span>
                                 </div>
 
-                                <div className={styles.menu} onClick={() => enterMenu('submenu_robots')}>
-                                    <div className={styles.guideText}>M1-r</div>
-                                    <span className={`iconfont icon-jiantou ${styles.arrow}`}></span>
-                                </div>
+
 
                                 <div className={styles.menu} onClick={() => enterMenu('submenu_research')}>
                                     <div className={styles.guideText}>Research</div>
@@ -90,7 +87,6 @@ export default function Guide({closeMenu, setCloseMenu}) {
                                     <div className={styles.submenu_block}>
                                         <div>Lower Prices</div>
                                         <div>Model M1-o</div>
-                                        <div>Robot M1-r</div>
                                         <div>Research</div>
                                         <div>Partner</div>
                                         <div>Team Member</div>

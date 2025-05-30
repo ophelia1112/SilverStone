@@ -23,17 +23,14 @@ export default function Project2() {
                     <img src="/Homepage_img_video/o1.jpg" alt=""/>
 
                     <p><a href="#">
-                        An on-chain intel and auto-trading bot
-                        that scans new token contracts,
-                        scores them, and executes user-defined strategies
-                        — M1-r1.
+                        A native on-chain mixing protocol on the trading chain Hyperliquid.
                     </a></p>
 
                 </div>
 
                 <div className={styles.project2_container}>
                     <img src="/Homepage_img_video/r1.jpg" alt=""/>
-                    <p><a href="#">Open Metaverse Trading System .</a></p>
+                    <p><a href="#">On-chain wallet infrastructure tailored for multi-chain asset management.</a></p>
 
                 </div>
             </div>

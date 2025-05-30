@@ -3,7 +3,7 @@ export default function Metaverse() {
     return (
         <div className={styles.metaverse_area}>
       <div className={styles.metaverse_title}>
-        <span>Metaverse Trading World</span>
+        <span>Metaverse</span>
         <a href="#">explore more</a>
       </div>
       <div className={styles.metaverse_img}>

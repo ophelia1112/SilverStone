@@ -20,17 +20,7 @@ export default function footlinks({closeMenu}) {
                     <p className={styles.every_link}><a href="">Docs</a></p>
                     <p className={styles.every_link}><a href="">Prices</a></p>
                 </div>
-
-                <div className={styles.links}>
-                    <p className={styles.link_title}><a href="">M1-r</a></p>
-                    <p className={styles.every_link}><a href="">Robot M1-r</a></p>
-                    <p className={styles.every_link}><a href="">API</a></p>
-                    <p className={styles.every_link}><a href="">Docs</a></p>
-
-                </div>
-            </div>
-            <div className={styles.link_area}>
-                <div className={styles.links}>
+                 <div className={styles.links}>
                     <p className={styles.link_title}><a href="">Research</a></p>
                     <p className={styles.every_link}><a href="">Articles</a></p>
                     <p className={styles.every_link}><a href="">Publications</a></p>
@@ -38,12 +28,24 @@ export default function footlinks({closeMenu}) {
 
                 </div>
 
+
+            </div>
+            <div className={styles.link_area}>
+
                 <div className={styles.links}>
                     <p className={styles.link_title}><a href="">Privacy</a></p>
                     <p className={styles.every_link}><a href="">Safety Policy</a></p>
                     <p className={styles.every_link}><a href="">User Privacy</a></p>
                     <p className={styles.every_link}><a href="">Protection</a></p>
                     <p className={styles.every_link}><a href="">Safety Research</a></p>
+
+                </div>
+                <div className={styles.links}>
+                    <p className={styles.link_title}><a href="">API</a></p>
+                    <p className={styles.every_link}><a href="">Deploy API</a></p>
+                    <p className={styles.every_link}><a href="">Products API</a></p>
+                    <p className={styles.every_link}><a href="">API Docs</a></p>
+                    <p className={styles.every_link}><a href="">Develop With us</a></p>
 
                 </div>
 
@@ -75,14 +77,7 @@ export default function footlinks({closeMenu}) {
             </div>
 
             <div className={styles.link_area}>
-                <div className={styles.links}>
-                    <p className={styles.link_title}><a href="">API</a></p>
-                    <p className={styles.every_link}><a href="">Deploy API</a></p>
-                    <p className={styles.every_link}><a href="">Products API</a></p>
-                    <p className={styles.every_link}><a href="">API Docs</a></p>
-                    <p className={styles.every_link}><a href="">Develop With us</a></p>
 
-                </div>
 
                 <div className={styles.links}>
                     <p className={styles.link_title}><a href="">Prices</a></p>
