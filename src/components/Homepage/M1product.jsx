@@ -9,7 +9,7 @@ export default function M1product(){
 
             <div className={styles.m1_info}>
                 <p>
-                    System M1<br/>
+                    M1 System<br/>
                     Now under construction.
                 </p>
             </div>
