@@ -1,0 +1,24 @@
+
+
+.link{
+    height:30vh;
+    margin-top: 10%;
+    display:flex;
+    justify-content: center;
+    padding:20px;
+
+}
+.grouplinks{
+    flex:1;
+    display:flex;
+    flex-direction: column;
+}
+.grouplinks a{
+    padding:8px;
+    font-size:20px;
+    text-decoration: none;
+    color:rgba(60,60,60,1);
+}
+.grouplinks a:hover{
+    color:black;
+}

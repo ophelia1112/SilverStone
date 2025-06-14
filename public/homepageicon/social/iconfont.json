@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8345672",
+      "name": "领英",
+      "font_class": "lingying",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "8760152",
+      "name": "instagram",
+      "font_class": "instagram",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "11983519",
+      "name": "youtube",
+      "font_class": "youtube",
+      "unicode": "ea07",
+      "unicode_decimal": 59911
+    },
+    {
+      "icon_id": "18986691",
+      "name": "GitHub",
+      "font_class": "GitHub",
+      "unicode": "e8c6",
+      "unicode_decimal": 59590
+    },
+    {
+      "icon_id": "26267569",
+      "name": "telegram",
+      "font_class": "telegram",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "38771321",
+      "name": "discard",
+      "font_class": "discard",
+      "unicode": "e591",
+      "unicode_decimal": 58769
+    },
+    {
+      "icon_id": "42973536",
+      "name": "tuite-copy",
+      "font_class": "tuite",
+      "unicode": "e527",
+      "unicode_decimal": 58663
+    }
+  ]
+}

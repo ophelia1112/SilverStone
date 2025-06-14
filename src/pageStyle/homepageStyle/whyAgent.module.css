@@ -1,0 +1,29 @@
+.why{
+    height: 70vh;
+    display: flex;
+    margin-top: 10%;
+
+
+
+}
+.img{
+    width: 50%;
+    position: relative;
+    overflow: hidden;
+}
+.img img{
+    width: 95%;
+    position:absolute;
+    top:-5%;
+    left:-50%;
+}
+.reason{
+}
+.reason p:nth-child(1){
+    font-size: 3rem;
+    padding:2%;
+}
+.reason p:nth-child(2){
+    font-size: 1.5rem;
+    padding:3%;
+}

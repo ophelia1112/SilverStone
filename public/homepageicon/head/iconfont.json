@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "658008",
+      "name": "多语言",
+      "font_class": "duoyuyan",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "1554898",
+      "name": "登陆",
+      "font_class": "denglu",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "17816845",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    }
+  ]
+}

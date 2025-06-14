@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6567",
+      "name": "地区下拉箭头",
+      "font_class": "diquxialajiantou",
+      "unicode": "3471",
+      "unicode_decimal": 13425
+    },
+    {
+      "icon_id": "975277",
+      "name": "新闻",
+      "font_class": "news",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    }
+  ]
+}
