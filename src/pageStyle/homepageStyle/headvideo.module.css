@@ -17,7 +17,6 @@
     left: 0;
     bottom: 0;
     right: 0;
-    background: rgba(120,120,120,0.08);
     display:flex;
     justify-content: flex-end;
     align-items: center;

@@ -3,7 +3,7 @@ import styles from '../../pageStyle/homepageStyle/headvideo.module.css'
 export default function HeadVideo() {
     return (
         <div className={styles.headvideo}>
-            <video src="/homepage_resource/headvideo.mp4" autoPlay muted></video>
+            <video src="/homepage_resource/headvideo.mp4" autoPlay  muted></video>
 
 
             <div className={styles.videodec}>
