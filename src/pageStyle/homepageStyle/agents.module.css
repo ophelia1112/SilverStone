@@ -1,15 +1,15 @@
 .agentarea{
     display: flex;
     min-height: 100vh;
-    box-sizing: border-box;
-
+    width: 100vw;
+    background: #61dafb;
 }
 .agentside{
-    width:250px;
+    width:20vw;
     flex-shrink: 0;
-    padding-top:20%;
-    padding-left:8%;
-    padding-bottom:25%;
+    padding-top:20vw;
+    padding-left:8vw;
+    padding-bottom:25vw;
     color:rgba(60,60,60,1);
     font-size: 2em;
     font-weight: 100;

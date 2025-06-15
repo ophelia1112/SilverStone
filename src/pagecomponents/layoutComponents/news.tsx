@@ -1,4 +1,4 @@
-import styles from '../../pageStyle/homepageStyle/news.module.css'
+import styles from '../../pageStyle/layoutStyles/news.module.css'
 
 export default function News() {
     return (

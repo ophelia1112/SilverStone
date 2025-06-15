@@ -1,10 +1,11 @@
 
 .news_head{
-    width:100%;
+    width:100vw;
     position:fixed;
     top:0;
     z-index:10;
     background:white;
+    padding-top: 0.5%;
 
 }
 
@@ -52,6 +53,31 @@
 }
 
 
+@media screen and (max-width: 768px) {
+  .head {
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 0;
+  }
+
+  .logoname {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .otherbutton {
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .logoname img {
+    width: 60%;
+    padding: 8px;
+  }
+}
 
 
 

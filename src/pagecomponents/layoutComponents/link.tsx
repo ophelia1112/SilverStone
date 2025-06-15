@@ -1,10 +1,11 @@
-import styles from '../../pageStyle/homepageStyle/link.module.css'
+import styles from '../../pageStyle/layoutStyles/link.module.css'
+import {Link} from "react-router-dom";
 
-export default function Link() {
+export default function Links() {
     return (
             <div className={styles.link}>
             <div className={styles.grouplinks}>
-                <a href="">AI agents</a>
+                <Link to="/agents">AI agents</Link>
                 <a href="">Reseach</a>
                 <a href="">Security</a>
                 <a href="">Privacy</a>

@@ -1,12 +1,15 @@
-import styles from '../../pageStyle/homepageStyle/headguide.module.css'
-
+import styles from '../../pageStyle/layoutStyles/headguide.module.css'
+import {Link} from 'react-router-dom'
 
 export default function Headguide() {
     return (
         <div className={styles.news_head}>
         <div className={styles.head}>
             <div className={styles.logoname}>
-                <img src="/homepage_resource/logo.png" alt=""/>
+                <Link to="/">
+                    <img src="/homepage_resource/logo.png" alt=""/>
+                </Link>
+
             </div>
 
             <div className={styles.otherbutton}>

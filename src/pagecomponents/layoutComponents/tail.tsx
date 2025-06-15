@@ -1,4 +1,4 @@
-import styles from '../../pageStyle/homepageStyle/tail.module.css'
+import styles from '../../pageStyle/layoutStyles/tail.module.css'
 
 export default function Tail() {
     return (

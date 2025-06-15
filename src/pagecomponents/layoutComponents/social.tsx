@@ -1,4 +1,4 @@
-import styles from '../../pageStyle/homepageStyle/social.module.css'
+import styles from '../../pageStyle/layoutStyles/social.module.css'
 
 export default function Social() {
     return (
